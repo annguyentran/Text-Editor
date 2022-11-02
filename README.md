@@ -4,4 +4,5 @@ The text editor uses the webpack so that the user can install into their brower 
 
 ![Webpack Screenshot](https://user-images.githubusercontent.com/107017473/199166666-b2c67268-e244-4c4e-9fd0-fca515a1533b.png)
 
-Deployed: Work in progress
+Deployed: https://text-editor12345.herokuapp.com/
+
